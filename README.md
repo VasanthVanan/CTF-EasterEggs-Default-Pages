@@ -14,22 +14,22 @@ To use EasterEggs, you need to have Python 3 and the following Python packages i
 * pyfiglet
 
 You can install these packages using pip:
-``
+```
 pip install difflib
 pip install termcolor
 pip install pyfiglet
-``
+```
 
 ## Usage
 
 To use EasterEggs, run the `eastereggs.py` script and provide two arguments:
-  > python3 eastereggs.py [URL] [SERVER-NAME]
+  > ```python3 eastereggs.py [URL] [SERVER-NAME]```
 
 * `URL` is the URL of the CTF web page you want to compare with the default HTML file.
 * `SERVER-NAME` is the name of the server directory containing the HTML file. The directory should be located in the `source` directory.
 
 For example, to compare the HTML of the CTF web page `http://10.10.10.10` that serves `Apache/2.4.18`, you would run:
-  > python3 eastereggs.py https://10.10.10.10 apache
+  > ```python3 eastereggs.py https://10.10.10.10 apache```
 
 ## Screenshots
 ![Script-Demo-Screenshot](/assets/images.png)
@@ -41,5 +41,7 @@ Contributions are welcome! If you find a bug or have a suggestion for a new feat
 ## Contact
 
 Follow me on Twitter: [@vasanth__vanan](https://twitter.com/vasanth__vanan)
+
 Connect with me on LinkedIn: [@vasanthavanan](https://www.linkedin.com/in/vasanthavanan/)
+
 Check out my TryHackMe profile: [@vasanth.vanan](https://tryhackme.com/p/vasanth.vanan)
