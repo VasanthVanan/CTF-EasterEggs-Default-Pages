@@ -1,8 +1,8 @@
 # CTF-EasterEggs-Default-Pages
 
-EasterEggs is a Python script that allows you to compare the default HTML server web page (say apache) with the HTML web page of your CTF Box that serves Apache. It prints the differences between the two HTML files, highlighting the added, removed or altered content.
+EasterEggs is a Python script that compares the default server web page (say apache) with the web page of your CTF Box (say it serves Apache). It prints the differences between the two HTML files, highlighting the added, removed or altered content.
 
-This can be really useful for capture the flag events, as it help to identify changes in HTML that may reveal "juicy" information. By quickly comparing a web page's HTML with a official default HTML file, EasterEggs can help flag potentially interesting changes. 
+This can be really useful for capture the flag events, as it quickly identifies potentially interesting changes in HTML.
 
 Happy hunting!
 
@@ -24,13 +24,17 @@ pip install pyfiglet
 ## Usage
 
 To use EasterEggs, run the `eastereggs.py` script and provide two arguments:
-  > ```python python3 eastereggs.py [URL] [SERVER-NAME]```
+  ```python 
+  python3 eastereggs.py [URL] [SERVER-NAME]
+  ```
 
 * `URL` is the URL of the CTF web page you want to compare with the default HTML file.
 * `SERVER-NAME` is the name of the server directory containing the HTML file. The directory should be located in the `source` directory.
 
 For example, to compare the HTML of the CTF web page `http://10.10.10.10` that serves `Apache/2.4.18`, you would run:
-  > ```python python3 eastereggs.py https://10.10.10.10 apache```
+  ```python
+  python3 eastereggs.py https://10.10.10.10 apache
+  ```
 
 ## Screenshots
 ![Script-Demo-Screenshot](/assets/image.png)
