@@ -1,6 +1,6 @@
 # CTF-EasterEggs-Default-Pages
 
-EasterEggs is a Python script that compares the default server web page (say apache) with the web page of your CTF Box (say it serves Apache). It prints the differences between the two HTML files, highlighting the added, removed or altered content.
+EasterEggs is a Python script that compares the default webserver welcome page (say apache) with the webpage of your CTF Box (say it serves Apache). It prints the differences between the two HTML files, highlighting the added, removed or altered content.
 
 This can be really useful for capture the flag events, as it quickly identifies potentially interesting changes in HTML.
 
@@ -38,6 +38,7 @@ For example, to compare the HTML of the CTF web page `http://10.10.10.10` that s
 
 ## Screenshots
 ![Script-Demo-Screenshot](/assets/image.png)
+![Script-Demo-Screenshot-2](/assets/image-2.png)
 
 ## Contributions
 
