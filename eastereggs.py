@@ -57,7 +57,7 @@ print("\n"+colored(ascii_art, "blue"))
 
 # Check number of command-line arguments
 if len(sys.argv) != 3:
-    print(colored("Usage: python3 eastereggs.py [URL] [website-name]\n","red"))
+    print(colored("Usage: python3 eastereggs.py [URL] [SERVER-NAME]\n","red"))
     sys.exit(1)
 
 # Get URL and website name from the command-line arguments
