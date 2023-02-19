@@ -38,6 +38,7 @@ For example, to compare the HTML of the CTF web page `http://10.10.10.10` that s
 
 ## Screenshots
 ![Script-Demo-Screenshot](/assets/image.png)
+![Script-Demo-Screenshot-2](/assets/image-2.png)
 
 ## Contributions
 
