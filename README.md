@@ -37,8 +37,8 @@ For example, to compare the HTML of the CTF web page `http://10.10.10.10` that s
   ```
 
 ## Screenshots
-![Script-Demo-Screenshot](/assets/image.png)
-![Script-Demo-Screenshot-2](/assets/image-2.png)
+![Script-Demo-Screenshot](https://lh3.googleusercontent.com/pw/AIL4fc-4tqN7BhtqFPgczltpgvfqnsNxB2jV3BumwFWeAB2T5dS91NkI5pdzAycnnNXe-9cjFwvdmdL2eGOwrEUMa26t0lAYd9T6vtbNttEmsVcVgRXLcIDja7xSe-hz1hAXHcTEdvFOtsDwhDFn5Ecfti4b=w1920-h666-s-no)
+![Script-Demo-Screenshot-2](https://lh3.googleusercontent.com/pw/AIL4fc9Cy8r5loTwDNKmHapnsQqV1H9CkFnKWABB5h62ydOcsJt371pLX7RCqHwfIkNYq9nt1dodZqKu6QRo7dYm88tvGxNzCn1dlPDO4fL4wy5oPzcqec_H5BsuzMBVBcqgXcgAvSNW3hZjpQPb7zCwhBbh=w1920-h484-s-no)
 
 ## Contributions
 
